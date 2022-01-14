@@ -25,6 +25,10 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dml.navimedix.com:8081/artifactory/api/nuget/feature-nuget": {},
+          "http://dml.navimedix.com:8081/artifactory/api/nuget/feature-nuget-test-local": {},
+          "http://dml.navimedix.com:8081/artifactory/api/nuget/open-nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
